@@ -14,7 +14,7 @@
     {
         "remote":       "github",
         "repository":   "miramax001/android_kernel_oneplus_sdm845",
-        "target_path":  "kernel/sdm845",
+        "target_path":  "kernel/oneplus/sdm845",
         "revision":     "lineage-19.0"
     },
     {
