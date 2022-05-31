@@ -31,9 +31,9 @@
         "clone-depth":  "1"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_oneplus",
+        "remote":       "github",
+        "repository":   "miramax001/proprietary_vendor_oneplus",
         "target_path":  "vendor/oneplus",
-        "revision":     "sapphire"
+        "revision":     "lineage-19.0"
     }
 ]
