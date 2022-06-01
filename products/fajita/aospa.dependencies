@@ -38,6 +38,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "LineageOS/android_hardware_oneplus",
+        "target_path":  "hardware/oneplus",
+        "revision":     "lineage-19.1"
+    },
+    {
+        "remote":       "github",
         "repository":   "LineageOS/android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
         "revision":     "lineage-19.1-caf-sdm845"
