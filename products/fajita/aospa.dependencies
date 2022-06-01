@@ -35,5 +35,11 @@
         "repository":   "miramax001/proprietary_vendor_oneplus",
         "target_path":  "vendor/oneplus",
         "revision":     "lineage-19.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "golang/go",
+        "target_path":  "prebuilts/go",
+        "revision":     "master"
     }
 ]
